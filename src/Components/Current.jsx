@@ -18,7 +18,7 @@ const Current = ({current, forecast:{forecastday}} ) => {
         <img src={current.condition.icon} alt="" />
       </div>
       <div className="chart">
-      {/* <Chart></Chart> */}
+      
       <AreaChart
         width={1800}
         height={200}
@@ -59,8 +59,8 @@ const Current = ({current, forecast:{forecastday}} ) => {
         </div>
       </div>
       
-      <Chart></Chart>
-      Current
+      <Chart/>
+    
     </div>
   )
 }
