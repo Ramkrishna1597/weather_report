@@ -1,7 +1,10 @@
 # weather_app
 Tech stack used => React, css
+<br/>
 -for charts used external library => recharts
+<br/>
 -for forecast data => weatherapi.com
+<br/>
 - ⚡ Deployed link => <a href="https://ram-weather-forecast.netlify.app/"/> (only mobile view)
 
 some screenshot =>
